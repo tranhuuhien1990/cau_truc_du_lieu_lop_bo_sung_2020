@@ -1,1 +1,3 @@
-# cau_truc_du_lieu_lop_bo_sung_2020
+# Cấu trúc dữ liệu 2020 - lớp bổ sung ban đêm 
+# Trần Hữu Hiền DC18V7K307
+
